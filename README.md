@@ -66,36 +66,30 @@ We include configuration files and saved models here; full implementations are i
 ```text
 KG-Explanations-UserStudy/
 │
-├── data/                   # Preprocessed KG snapshots
-│   ├── hetionet/
-│   ├── primekg/
-│   └── oregano/
+├── datasets/                   # Preprocessed KGs for each task with train, test, dev plus labels 
+│   ├── dataset_dr/
+│   ├── dataset_dt/
+│   └── datasets_labels/
 │
-├── systems/                # Configs & wrappers for methods
-│   ├── minerva/
-│   ├── polo/
-│   ├── rex/
-│   └── rexlight/
+├── systems/                # Configs files and saved models for methods for each KG
+│   ├── config_files/
+│   └── saved_models/
 │
 ├── evaluation/             # User-study materials, aggregated results, plots
 │   ├── user_study/
-│   ├── results/
+│   ├── topic_modeling/
 │   └── figures/
 │
 ├── scripts/                # Data preprocessing, evaluation, visualization
-│   ├── preprocess.py
+│   ├── correlation.py
 │   ├── evaluate.py
 │   └── visualize.py
 │
-├── notebooks/              # Interactive analysis & topic modeling
-│   └── user_study_analysis.ipynb
-│
-├── docs/                   # Paper PDF & citation file
-│   └── paper_citation.bib
-│
 └── README.md               # ← You are here
 
-```text
+```
+
+
 
 
 
