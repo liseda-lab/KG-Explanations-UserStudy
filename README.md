@@ -87,10 +87,10 @@ KG-Explanations-UserStudy/
 │   ├── config_files/
 │   └── saved_models/
 │
-├── evaluation/          # User-study materials, topic modeling, plots
-│   ├── user_study/
+├── evaluation/          # User-study materials, topic modeling, user design
+│   ├── user_study_forms/
 │   ├── topic_modeling/
-│   └── figures/
+│   └── user_design/
 │
 └── README.md               # ← You are here
 
