@@ -11,16 +11,7 @@ We conduct a user-centered evaluation of path-based explanations over biomedical
 - **PrimeKG**: https://github.com/mims-harvard/PrimeKG
 - **OREGANO**: https://gitub.u-bordeaux.fr/erias/oregano
   
-
-## Methods
-These methods are publicly available on their respetive githubs. We provide the config files used for the experiences as well as a saved model to replicate results. 
-- **REx**: https://github.com/liseda-lab/REx
-- **PoLo**: https://github.com/liu-yushan/PoLo
-- **Minerva**: https://github.com/shehzaadzd/MINERVA
-
-
 A summary of their core statistics, including the number of entities, relations, and the train/test sizes for each prediction task, is provided in the following Table:
-
 
 | Category                    |                 | Hetionet  | PrimeKG   | OREGANO   |
 |-----------------------------|-----------------|-----------|-----------|-----------|
@@ -35,6 +26,14 @@ A summary of their core statistics, including the number of entities, relations,
 | **Drug–Target Interaction** | Train           | 5,670     | ———       | 84,214    |
 |                             | Valid           | 2,430     | ———       | 36,093    |
 |                             | Test            | 3,471     | ———       | 51,560    |
+
+
+## Methods
+These methods are publicly available on their respetive githubs. We provide the config files used for the experiences as well as a saved model to replicate results. 
+- **REx**: https://github.com/liseda-lab/REx
+- **PoLo**: https://github.com/liu-yushan/PoLo
+- **Minerva**: https://github.com/shehzaadzd/MINERVA
+
 
 
 
