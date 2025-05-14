@@ -63,36 +63,37 @@ We include configuration files and saved models here; full implementations are i
 
 ## Repository Structure
 
+```text
 KG-Explanations-UserStudy/
 │
-├── data/ # Preprocessed KG snapshots
-│ ├── hetionet/
-│ ├── primekg/
-│ └── oregano/
+├── data/                   # Preprocessed KG snapshots
+│   ├── hetionet/
+│   ├── primekg/
+│   └── oregano/
 │
-├── systems/ # Configs & wrappers for methods
-│ ├── minerva/
-│ ├── polo/
-│ ├── rex/
-│ └── rexlight/
+├── systems/                # Configs & wrappers for methods
+│   ├── minerva/
+│   ├── polo/
+│   ├── rex/
+│   └── rexlight/
 │
-├── evaluation/ # User-study materials, aggregated results, plots
-│ ├── user_study/
-│ ├── results/
-│ └── figures/
+├── evaluation/             # User-study materials, aggregated results, plots
+│   ├── user_study/
+│   ├── results/
+│   └── figures/
 │
-├── scripts/ # Data preprocessing, evaluation, visualization
-│ ├── preprocess.py
-│ ├── evaluate.py
-│ └── visualize.py
+├── scripts/                # Data preprocessing, evaluation, visualization
+│   ├── preprocess.py
+│   ├── evaluate.py
+│   └── visualize.py
 │
-├── notebooks/ # Interactive analysis & topic modeling
-│ └── user_study_analysis.ipynb
+├── notebooks/              # Interactive analysis & topic modeling
+│   └── user_study_analysis.ipynb
 │
-├── docs/ # Paper PDF & citation file
-│ └── paper_citation.bib
+├── docs/                   # Paper PDF & citation file
+│   └── paper_citation.bib
 │
-└── README.md # ← You are here
+└── README.md               # ← You are here
 
 
 
