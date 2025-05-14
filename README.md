@@ -95,11 +95,7 @@ KG-Explanations-UserStudy/
 │
 └── README.md               # ← You are here
 
+```text
 
 
-## Citation
-Please cite our paper using the following BibTeX entry:
 
-future_bibtex
-
-}
