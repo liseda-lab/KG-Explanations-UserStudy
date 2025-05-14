@@ -87,15 +87,10 @@ KG-Explanations-UserStudy/
 │   ├── config_files/
 │   └── saved_models/
 │
-├── evaluation/             # User-study materials, aggregated results, plots
+├── evaluation/          # User-study materials, topic modeling, plots
 │   ├── user_study/
 │   ├── topic_modeling/
 │   └── figures/
-│
-├── scripts/                # Data preprocessing, evaluation, visualization
-│   ├── correlation.py
-│   ├── evaluate.py
-│   └── visualize.py
 │
 └── README.md               # ← You are here
 
