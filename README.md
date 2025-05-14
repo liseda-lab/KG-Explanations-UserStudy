@@ -1,7 +1,6 @@
 # KG-Explanations-UserStudy
 
-**Explaining Scientific Hypotheses in Drug Development with Knowledge Graphs**  
-Resources, code, and data for the ISWC 2025 paper are availabe here.
+**Explaining Scientific Hypotheses in Drug Development with Knowledge Graphs**  Resources, code, and data for the ISWC 2025 paper are availabe here.
 
 ---
 
