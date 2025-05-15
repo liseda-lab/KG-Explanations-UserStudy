@@ -100,7 +100,7 @@ KG-Explanations-UserStudy/
 - __Susana Nunes__
 - __Catia Pesquita__
 
-For any comments or help needed with this implementation, please send an email to: scnunes@ciencias.ulisboa.pt
+For any comments or help needed, please send an email to: scnunes@ciencias.ulisboa.pt
 
 ## Acknowledgments
 This work was supported by FCT through the fellowship 2023.00653.BD, and the LASIGE Research Unit, ref. UID/00408/2025. It was also partially supported by the KATY project which has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 101017453.
