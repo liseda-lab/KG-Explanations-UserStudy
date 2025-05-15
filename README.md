@@ -50,7 +50,7 @@ The table below reports overall graph size, then train/validation/test splits fo
 
 ##  Methods
 
-We include configuration files and saved models here; full implementations are in their upstream repos:
+We include configuration files and saved models here. Full implementations are in their upstream repos:
 
 | Method     | GitHub                                          |
 | ---------- | ----------------------------------------------- |
