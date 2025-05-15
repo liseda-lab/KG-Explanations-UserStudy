@@ -14,9 +14,9 @@ We compare four KG-based explanation methods—**Minerva**, **PoLo**, **REx** an
 
 Our evaluation combines:
 
-- **Quantitative link-prediction metrics** (MRR, Hits@k)  
-- **A user study** with 11 biomedical researchers rating explanations on scientific validity, completeness, and relevance  
-- **Qualitative feedback** (topic modeling & visualization)
+- **Quantitative link-prediction metrics** (MRR, Hits@k);  
+- **An user study** with 11 biomedical researchers rating explanations on scientific validity, completeness, and relevance;  
+- **Qualitative feedback** (topic modeling & visualization).
 
 ---
 
